@@ -1,2 +1,4 @@
 # CTI110
-CTI110 Repository
+Created for P1Lab1
+Pettit
+02/23/2025
