@@ -31,4 +31,5 @@ if nickels > 0:
 if pennies > 0:
     print(f"{pennies} penny" if pennies == 1 else f"{pennies} pennies")
     
-    
+if dollars == 0 and quarters == 0 and dimes == 0 and nickels == 0 and pennies == 0:
+    print("No change")
